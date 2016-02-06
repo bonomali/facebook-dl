@@ -16,14 +16,14 @@ $ npm install --global facebook-dl
 $ facebook-dl -m 'name' -i '/videoID' -s '/gif'
 
   Usage
-    
+
     $ facebook-dl
-       
+
               Options:
-                     
+
                  -m      name the file.                            [required]
                  -i      video id [ 23423984792834 ]               [required]
-                 -s      gif link [ internal ]                     [required] 
+                 -s      gif link [ internal ]                     [required]
 
 
     $ facebook-dl -n unicorn.mp4 -u '/videoID'
@@ -33,7 +33,7 @@ $ facebook-dl -m 'name' -i '/videoID' -s '/gif'
     DONE!
 
     $ facebook-dl -n unicorn.gif -s '/gif'
-    
+
     Status Code : 200
     Please Wait! Download in progress.
     DONE!
