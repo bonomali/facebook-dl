@@ -2,7 +2,8 @@
 
 > Download Facebook videos and gifs easily from your console.
 
-<img src="http://rishigiri.com/github/final.png"></img>
+
+                    <img src="http://rishigiri.com/github/final.png"></img>
 
 ## Install
 
