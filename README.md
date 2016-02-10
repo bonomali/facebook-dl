@@ -5,7 +5,7 @@
 
 </h1>
 
-> Download Facebook videos and gifs easily from your console.
+> Download Facebook videos easily from your console.
 
 ## Install
 
@@ -16,7 +16,7 @@ $ npm install --global facebook-dl
 ## Usage
 
 ```
-$ facebook-dl -m 'name' -i '/videoID' -s '/gif'
+$ facebook-dl -v '/videoID' -n unicorn.mp4
 
   Usage
 
@@ -24,21 +24,13 @@ $ facebook-dl -m 'name' -i '/videoID' -s '/gif'
 
               Options:
 
-                 -m      name the file.                            [required]
-                 -i      video id [ 23423984792834 ]               [required]
-                 -s      gif link [ internal ]                     [required]
+                 -v      /vidoe id [ 23234234234234 ]               [required]
+                 -u      name [ unicorn.mp4 ]                       [required]
 
-
-    $ facebook-dl -n unicorn.mp4 -u '/videoID'
+    $ facebook-dl -v /VideoID -u unicorn.mp4
 
     Status Code : 200
     Please wait! Download in progress.
-    DONE!
-
-    $ facebook-dl -n unicorn.gif -s '/gif'
-
-    Status Code : 200
-    Please Wait! Download in progress.
     DONE!
 
 ```
