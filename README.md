@@ -1,11 +1,8 @@
-# facebook-dl
 <h1 align="center">
-	<br>
 	<br>
 <img width="360" height="170" src="http://rishigiri.com/github/final.png"></img>
 	<br>
-	<br>
-	<br>
+
 </h1>
 
 > Download Facebook videos and gifs easily from your console.
