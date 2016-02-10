@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-<img width="360" height="170" src="http://rishigiri.com/github/final.png"></img>
+<img width="360" height="165" src="http://rishigiri.com/github/final.png"></img>
 	<br>
 
 </h1>
