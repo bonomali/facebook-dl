@@ -1,5 +1,4 @@
 <h1 align="center">
-	<br>
 <img width="360" height="165" src="http://rishigiri.com/github/final.png"></img>
 	<br>
 
